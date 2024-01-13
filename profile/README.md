@@ -23,7 +23,7 @@ Our project consists of different repositories, each serving a different purpose
 
 ## Study Bot
 
-Our main repository (this one), bringing the Chatbot components togehther in a Gradio Interface.
+Our main repository, bringing the Chatbot togehther in a Gradio Interface.
 
 [Link zum Repository](https://github.com/NLP-Challenges/Study-Bot)
 
