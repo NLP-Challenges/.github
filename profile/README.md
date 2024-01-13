@@ -5,7 +5,7 @@
 | ------- | ------------- |
 | Yvo Keller | [@yvokeller](https://github.com/yvokeller) |
 | Tobias Buess | [@buesst1](https://github.com/buesst1) |
-| Alexander Shanmugam | [alexfhnw](https://github.com/alexfhnw) |
+| Alexander Shanmugam | [@alexfhnw](https://github.com/alexfhnw) |
 
 # Repositories
 ## Text Classification
