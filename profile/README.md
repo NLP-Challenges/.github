@@ -15,7 +15,7 @@ The chatbot is adept at distinguishing between **questions**, specific user **co
 
 # Documentation
 
-The project documentation is available [here](https://github.com/NLP-Challenges/Study-Bot/docs).
+The project documentation is available [here](https://github.com/NLP-Challenges/Study-Bot/blob/main/docs/DOCUMENTATION.md).
 
 # Repositories
 
