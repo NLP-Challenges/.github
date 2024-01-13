@@ -2,7 +2,7 @@
 
 Our Chatbot **Data** is your compassionate companion in Data Science Learning. Built within the Natural Lanaguage Processing and Ethical Implementation courses of our Data Science Degree at FHNW, we are pioneering a chatbot specifically designed for the Students of the Data Science program. Our mission is to create a virtual assistant that not only provides accurate answers to questions about the study program and the Spaces learning platform, but also empathetically responds to users' concerns and needs.
 
-Data excels in answering topic-specific queries related to the Data Science program and the content available on the Spaces platform. It is adept at providing accurate and factual responses including sources, while also acknowledging when a query falls beyond its knowledge base. Beyond, Data is programmed to identify and appropriately address user concerns. It aims to offer support through motivational words, practical advice, and, when necessary, referring to support services or emergency contacts.
+Data is developed to answer topic-specific queries related to the Data Science program and the course content available on the Spaces platform. It is trained to provide accurate and factual responses including sources, while also acknowledging when a query falls beyond its knowledge base. Beyond, Data is programmed to identify and appropriately address user concerns. It aims to offer support through motivational words, practical advice, and, when necessary, referring to support services or emergency contacts.
 
 The chatbot is adept at distinguishing between **questions**, specific user **concerns**, and **harmful** requests, thereby ensuring a safe and respectful interaction environment.
 
