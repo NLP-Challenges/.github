@@ -1,12 +1,26 @@
-## Hi there 👋
+# About
 
-<!--
+## Gruppe
+| Student | GitHub Profil |
+| ------- | ------------- |
+| Yvo Keller | [@yvokeller](https://github.com/yvokeller) |
+| Tobias Buess | [@buesst1](https://github.com/buesst1) |
+| Alexander Shanmugam | [alexfhnw](https://github.com/alexfhnw) |
 
-**Here are some ideas to get you started:**
+# Repositories
+## Text Classification
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Link zum Repository](https://github.com/NLP-Challenges/Text-Classification?tab=readme-ov-file#text-classification)
+
+## Question Answering
+
+[Link zum Repository](https://github.com/NLP-Challenges/llm-qa-path?tab=readme-ov-file#llm-question-answering-)
+
+## Chatbot
+
+[Link zum Repository](https://github.com/NLP-Challenges/Study-Bot?tab=readme-ov-file#konzept-f%C3%BCr-den-chatbot-data)
+
+# Dokumentation
+
+# Projektmanagement
+[Roadmap](https://github.com/orgs/NLP-Challenges/projects/1)
