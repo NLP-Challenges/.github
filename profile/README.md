@@ -13,6 +13,10 @@ The chatbot is adept at distinguishing between **questions**, specific user **co
 | Tobias Buess | [@buesst1](https://github.com/buesst1) |
 | Alexander Shanmugam | [@alexfhnw](https://github.com/alexfhnw) |
 
+# Documentation
+
+The project documentation is available [here](https://github.com/NLP-Challenges/Study-Bot/docs).
+
 # Repositories
 
 Our project consists of different repositories, each serving a different purpose described below.
@@ -34,8 +38,6 @@ Includes different classification models developed to accurately classify user q
 Contains the code for fine-tuning open source language models on the task of question answering based on context, referring to sources used.
 
 [Link zum Repository](https://github.com/NLP-Challenges/llm-qa-path)
-
-# Dokumentation
 
 # Project Management
 
