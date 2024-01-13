@@ -25,19 +25,19 @@ Our project consists of different repositories, each serving a different purpose
 
 Our main repository, bringing the Chatbot togehther in a Gradio Interface.
 
-[Link zum Repository](https://github.com/NLP-Challenges/Study-Bot)
+[Study-Bot](https://github.com/NLP-Challenges/Study-Bot)
 
 ## Text Classification
 
 Includes different classification models developed to accurately classify user queries between the classes **question**, **concern** and **harm**.
 
-[Link zum Repository](https://github.com/NLP-Challenges/Text-Classification)
+[Text-Classification](https://github.com/NLP-Challenges/Text-Classification)
 
 ## Question Answering
 
 Contains the code for fine-tuning open source language models on the task of question answering based on context, referring to sources used.
 
-[Link zum Repository](https://github.com/NLP-Challenges/llm-qa-path)
+[Question-Answering](https://github.com/NLP-Challenges/llm-qa-path)
 
 # Project Management
 
